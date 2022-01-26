@@ -1,6 +1,8 @@
 # python_homework_04
 Unit 4 Homework Assignment: A Whale Off the Port(folio)
+
 Student - Ksenija Cadajeva
+
 Background:
 
 Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
